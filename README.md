@@ -1,41 +1,44 @@
-<h1 align="center">Hi there 👋, I'm Mohammed Baslib</h1>
+<h1 align="center">👋 مرحبًا، أنا محمد باصليب</h1>
 
 <p align="center">
-  🌍 From Yemen | 📚 CS Student at University of Hadramout <br>
-  💻 Passionate about Web Development | Currently learning JavaScript & Frontend <br>
-  🚀 I build learning projects and love to share my journey on GitHub
+  💻 مطور واجهات أمامية (Frontend Developer) طموح وشغوف ببناء مواقع ويب عصرية وسريعة الاستجابة.<br>
+  🎓 أدرس علوم الحاسوب في <b>جامعة حضرموت</b> وأعمل على تطوير مهاراتي البرمجية يومًا بعد يوم.<br>
+  🚀 هدفي هو الوصول إلى مستوى احترافي يمكنني من العمل في مجال تطوير الويب.
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-
-- 💡 HTML, CSS (Responsive design, Flexbox, Grid)
-- 🧠 Learning: JavaScript, Git, GitHub, UI/UX
-- 🧩 Exploring: React & APIs (soon)
-
----
-
-### 🌟 My Latest Project
-
-🔗 [Web Learning Platform](https://mohamed-baslib.github.io/web-learning-platform/)  
-💬 A frontend-only educational platform prototype built using HTML & CSS
-
----
-
-### 📈 GitHub Stats
+## 🧠 المهارات والتقنيات
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-baslib&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode,figma" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 📊 إحصائياتي في GitHub
 
-- Email: `m.baslib517@gmail.com`
-- GitHub: [@mohamed-baslib](https://github.com/mohamed-baslib)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-baslib&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-baslib&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ---
 
-> *"Learning never exhausts the mind."* – Leonardo da Vinci
+## 🌍 تواصل معي
+
+<p align="center">
+  <a href="mailto:m.baslib517@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-basalib/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/mohamed-baslib"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“التعلم المستمر هو الطريق إلى الإتقان.”</i>  
+</p>
+
+---
+
+⭐ إذا أعجبك أحد مشاريعي، لا تنسَ وضع نجمة لدعمي!
