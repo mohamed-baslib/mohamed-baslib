@@ -1,44 +1,87 @@
-<h1 align="center">👋 مرحبًا، أنا محمد باصليب</h1>
+<div align="center">
 
-<p align="center">
-  💻 مطور واجهات أمامية (Frontend Developer) طموح وشغوف ببناء مواقع ويب عصرية وسريعة الاستجابة.<br>
-  🎓 أدرس علوم الحاسوب في <b>جامعة حضرموت</b> وأعمل على تطوير مهاراتي البرمجية يومًا بعد يوم.<br>
-  🚀 هدفي هو الوصول إلى مستوى احترافي يمكنني من العمل في مجال تطوير الويب.
-</p>
+# Hi, I'm Mohamed Baslib 👋
 
----
+### Frontend Developer | React.js · Tailwind CSS · UI/UX
 
-## 🧠 المهارات والتقنيات
+I build responsive, user-friendly web interfaces and enjoy turning ideas and designs into practical web experiences.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode,figma" />
-</p>
+<a href="https://www.linkedin.com/in/mohamed-basalib/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:m.baslib517@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
----
-
-## 📊 إحصائياتي في GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-baslib&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-baslib&layout=compact&theme=tokyonight" height="165" />
-</p>
+</div>
 
 ---
 
-## 🌍 تواصل معي
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="mailto:m.baslib517@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mohamed-basalib/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mohamed-baslib"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+- Focused on **frontend development** and building responsive web interfaces.
+- Hands-on practice with **React.js, JavaScript, and Tailwind CSS**.
+- Interested in **UI/UX design** and creating clear, accessible user experiences.
+- Currently learning and exploring **Next.js** through focused practice.
+- Always working to strengthen my fundamentals, write clearer code, and learn by building.
+
+## 🧰 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="HTML, CSS, JavaScript, React, Tailwind CSS and Bootstrap"/>
 </p>
+
+### Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code and Figma"/>
+</p>
+
+### Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
+</p>
+<p><sub>Next.js is currently part of my learning path; I'm building practical experience with it.</sub></p>
+
+## 🚀 Selected Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mohamed-baslib/uni-training-platform">Uni Training Platform</a></h3>
+      <p>An Arabic, responsive frontend concept for helping students discover and manage training opportunities.</p>
+      <p><sub>React · Tailwind CSS · Context API · LocalStorage</sub></p>
+      <a href="https://uni-training-platform.vercel.app/">Live Demo ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mohamed-baslib/Weather-app">Weather App</a></h3>
+      <p>A responsive weather app with city search, location support, forecasts, Arabic/English localization, and theme switching.</p>
+      <p><sub>React · Tailwind CSS · API integration · i18next</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mohamed-baslib/business-consulting-landing-page">Business Consulting Landing Page</a></h3>
+      <p>A multi-section landing page focused on layout, visual hierarchy, and responsive styling.</p>
+      <p><sub>HTML · CSS</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mohamed-baslib/web-learning-platform">Web Learning Platform</a></h3>
+      <p>A multi-page website built to practice semantic HTML, CSS, and responsive layouts.</p>
+      <p><sub>HTML · CSS</sub> · <a href="https://mohamed-baslib.github.io/web-learning-platform/">Live Demo ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+## 📈 GitHub Overview
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamed-baslib&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-baslib&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+</div>
 
 ---
 
-<p align="center">
-  <i>“التعلم المستمر هو الطريق إلى الإتقان.”</i>  
-</p>
-
----
-
-⭐ إذا أعجبك أحد مشاريعي، لا تنسَ وضع نجمة لدعمي!
+<div align="center">
+  <i>Learning by building, improving one project at a time.</i>
+</div>
