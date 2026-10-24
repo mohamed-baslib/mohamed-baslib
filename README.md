@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohamed Baslib 👋
 
-### Frontend Developer | React.js · Tailwind CSS · UI/UX
+### Frontend Developer | React.js · Next.js · Tailwind CSS · UI/UX
 
 I build responsive, user-friendly web interfaces and enjoy turning ideas and designs into practical web experiences.
 
@@ -20,28 +20,22 @@ I build responsive, user-friendly web interfaces and enjoy turning ideas and des
 ## 👨‍💻 About Me
 
 - Focused on **frontend development** and building responsive web interfaces.
-- Hands-on practice with **React.js, JavaScript, and Tailwind CSS**.
+- Practical knowledge of **HTML, CSS, JavaScript, React.js, Tailwind CSS, and Next.js**.
 - Interested in **UI/UX design** and creating clear, accessible user experiences.
-- Currently learning and exploring **Next.js** through focused practice.
+- Familiar with **Git and GitHub** for version control and project collaboration.
 - Always working to strengthen my fundamentals, write clearer code, and learn by building.
 
 ## 🧰 Tech Stack
 
-### Frontend
+### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="HTML, CSS, JavaScript, React, Tailwind CSS and Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS and Bootstrap"/>
 </p>
 
 ### Tools & Design
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code and Figma"/>
 </p>
-
-### Currently Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"/>
-</p>
-<p><sub>Next.js is currently part of my learning path; I'm building practical experience with it.</sub></p>
 
 ## 🚀 Selected Projects
 
